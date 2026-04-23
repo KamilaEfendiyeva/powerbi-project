@@ -12,4 +12,5 @@ Features
 - KPIs and charts for analysis
 
 Goal
+
 To present data insights in a simple and visual way for better decision making.

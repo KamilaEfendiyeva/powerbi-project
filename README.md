@@ -5,7 +5,7 @@ It helps to analyze and visualize business data in a clear way.
 
 Tools Used
 - Microsoft Power BI
-- 
+
 Features
 - Interactive dashboard
 - Visual representation of data
